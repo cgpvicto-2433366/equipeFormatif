@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProjetsSession2\\equipeFormatif\\equipe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B9C3BA-4CBF-4B99-95A4-8B7E793589C7}|Postman\\Postman.csproj|c:\\projetssession2\\equipeformatif\\equipe\\postman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B9C3BA-4CBF-4B99-95A4-8B7E793589C7}|Postman\\Postman.csproj|solutionrelative:postman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C8F7B-E56C-4673-8D83-38D6FA5E31C2}|Bibliotheque\\Bibliotheque.csproj|c:\\projetssession2\\equipeformatif\\equipe\\bibliotheque\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9C8F7B-E56C-4673-8D83-38D6FA5E31C2}|Bibliotheque\\Bibliotheque.csproj|solutionrelative:bibliotheque\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90885751-06F9-401C-8A64-10E127CABFE9}|equipe\\equipe.csproj|C:\\ProjetsSession2\\equipeFormatif\\equipe\\equipe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90885751-06F9-401C-8A64-10E127CABFE9}|equipe\\equipe.csproj|solutionrelative:equipe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProjetsSession2\\equipeFormatif\\equipe\\Postman\\Program.cs",
+              "RelativeDocumentMoniker": "Postman\\Program.cs",
+              "ToolTip": "C:\\ProjetsSession2\\equipeFormatif\\equipe\\Postman\\Program.cs",
+              "RelativeToolTip": "Postman\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T21:07:32.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\ProjetsSession2\\equipeFormatif\\equipe\\Bibliotheque\\Class1.cs",
+              "RelativeDocumentMoniker": "Bibliotheque\\Class1.cs",
+              "ToolTip": "C:\\ProjetsSession2\\equipeFormatif\\equipe\\Bibliotheque\\Class1.cs",
+              "RelativeToolTip": "Bibliotheque\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T21:07:02.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Conception]",
+              "DocumentMoniker": "C:\\ProjetsSession2\\equipeFormatif\\equipe\\equipe\\Form1.cs",
+              "RelativeDocumentMoniker": "equipe\\Form1.cs",
+              "ToolTip": "C:\\ProjetsSession2\\Programmation2\\formatif\\equipe\\equipe\\Form1.cs [Conception]",
+              "RelativeToolTip": "..\\..\\Programmation2\\formatif\\equipe\\equipe\\Form1.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T21:06:28.375Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
